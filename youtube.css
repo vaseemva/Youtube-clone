@@ -1,0 +1,361 @@
+body{
+    margin: 0%;
+  
+   
+}
+.Main-body{
+    width: 100%;
+    height: 129.5vh;
+    background-color: black;
+}
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+}
+.menu icon{
+    float: left;
+}
+.logodept{
+    float: left;
+}
+.material-symbols-outlined{
+    color: white;
+    height: 30px;
+    font-size: 41px;
+    float: left;
+    margin-left: 5px;
+}
+.ytlogo{
+    float: left;
+    height: 31px;
+    width: 46px;
+    margin-top: 5px;
+    margin-left: 35px;
+}
+.logotext{
+    background-color: black;
+    color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-top: 0;
+   padding-top: 9px;
+   margin-left: 90px;
+   
+}
+.search box{
+    float: left;
+    padding-top: 5px;
+
+}
+.seachinput{
+    margin-top: 6px;
+    margin-left: 120px;
+    background-color:black;
+    text-decoration-color: grey;
+    height: 34px;
+    width: 569px;
+    float: left;
+   
+}
+
+.iconandbox{
+   height: 41px;
+   margin-top: 7px;
+   float: left;
+}
+.voicesearch{
+   
+        background:#212120;
+        border-radius: 50%;
+        width: 41px;
+        height: 45px;
+        float: left;
+        margin-left: 8px;
+        margin-top: 7px;
+ 
+}
+.voiceicon{
+    height: 26px;
+    padding: 8px;
+}
+.create{
+  float: left;
+  margin-left: 222px;
+  margin-top: 8px;
+}
+.material-symbols-outlined .createicon{
+  height: 5px;
+  width: 5px;
+  font-size: 5px;
+   
+}
+.notification{
+    float: left;
+    margin-left: 29px;
+    margin-top: 10px;
+}
+.account{
+    background-color: aquamarine;
+        border-radius: 50%;
+        width: 41px;
+        height: 45px;
+        float: left;
+        margin-left: 69px;
+        margin-top: 7px;
+}
+.dp{
+    padding: auto;
+    width: 50px;
+}
+.sidebar{
+    height: 115.6vh;
+    width: 195px;
+    background-color: rgb(39, 40, 40);
+    float: left;
+
+}
+.home{
+    height: 53px;
+    width: 194px;
+    background-color: rgb(18, 18, 18);
+}
+.homeicon{
+    padding-top: 5px;
+}
+.hometext{
+    color: white;
+   margin-top: 12px;
+   margin-left: 70px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.explore{
+    height: 53px;
+    width: 194px;
+    background-color: rgb(18, 18, 18);
+}
+.exploreicon{
+    padding-top: 5px;
+}
+.exploretext{
+    color: white;
+   margin-top: 12px;
+   margin-left: 70px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.shorts{
+    height: 53px;
+    width: 194px;
+    background-color: rgb(18, 18, 18);
+}
+.shortsicon{
+    padding-top: 5px;
+}
+.shortstext{
+    color: white;
+   margin-top: 12px;
+   margin-left: 70px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.subscriptions{
+    height: 53px;
+    width: 194px;
+    background-color: rgb(18, 18, 18);
+}
+.subscriptionsicon{
+    padding-top: 5px;
+}
+.subscriptionstext{
+    color: white;
+   margin-top: 12px;
+   margin-left: 70px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.library{
+    height: 53px;
+    width: 194px;
+    background-color: rgb(18, 18, 18);
+    margin-top: 3px;
+}
+.libraryicon{
+    padding-top: 5px;
+}
+.librarytext{
+    color: white;
+   margin-top: 12px;
+   margin-left: 70px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.history{
+    height: 53px;
+    width: 194px;
+    background-color: rgb(18, 18, 18);
+    
+}
+.historyicon{
+    padding-top: 5px;
+}
+.historytext{
+    color: white;
+   margin-top: 12px;
+   margin-left: 70px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.yourvideo{
+    height: 53px;
+    width: 194px;
+    background-color: rgb(18, 18, 18);
+    
+}
+.yourvideoicon{
+    padding-top: 5px;
+}
+.yourvideotext{
+    color: white;
+   margin-top: 12px;
+   margin-left: 70px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.watchlater{
+    height: 53px;
+    width: 194px;
+    background-color: rgb(18, 18, 18);
+    
+}
+.watchlatericon{
+    padding-top: 5px;
+}
+.watchlatertext{
+    color: white;
+   margin-top: 12px;
+   margin-left: 70px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.liked{
+    height: 53px;
+    width: 194px;
+    background-color: rgb(18, 18, 18);
+    
+}
+.likedicon{
+    padding-top: 5px;
+}
+.likedtext{
+    color: white;
+   margin-top: 12px;
+   margin-left: 70px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.settings{
+    height: 49px;
+    width: 194px;
+    background-color: rgb(18, 18, 18);
+    
+}
+.settingsicon{
+    padding-top: 5px;
+}
+.settingstext{
+    color: white;
+   margin-top: 12px;
+   margin-left: 70px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.help{
+    height: 49px;
+    width: 194px;
+    background-color: rgb(18, 18, 18);
+    
+}
+.helpicon{
+    padding-top: 5px;
+}
+.helptext{
+    color: white;
+   margin-top: 12px;
+   margin-left: 70px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.videos{
+    float: left;
+    margin-left: 20px;
+}
+iframe{
+    height: 270px;
+    width: 420px;
+    padding-left: 5px;
+   
+    
+}
+.voiceicon:hover{
+    background-color:red;
+}
+.yourvideoicon:hover{
+    background-color:grey;
+}
+.menuicon:hover{
+   background-color: grey;
+}
+.homeicon:hover{
+    background-color: grey;
+ }
+ .exploreicon:hover{
+    background-color: grey;
+ }
+ .shortsicon:hover{
+    background-color: grey;
+ }
+ .subscriptionsicon:hover{
+    background-color: grey;
+ }
+ .libraryicon:hover{
+    background-color: grey;
+ }
+ .historyicon:hover{
+    background-color: grey;
+ }
+ .yourvideosicon:hover{
+    background-color: grey;
+ }
+ .watchlatericon:hover{
+    background-color: grey;
+ }
+ .likedicon:hover{
+    background-color: grey;
+ }
+ .settingsicon:hover{
+    background-color: grey;
+ }
+ .helpicon:hover{
+    background-color: grey;
+ }
+ .helptext{
+    color: white;
+   margin-top: 15px;
+   margin-left: 70px;
+    font-size: 13px;
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sidebar-icons{
+    height: 49px;
+    width: 194px;
+    background-color: rgb(18, 18, 18); 
+}
+.side-icon{
+    padding-top: 5px;
+}
+.side-icon:hover{
+    background-color: gray;
+}
+
